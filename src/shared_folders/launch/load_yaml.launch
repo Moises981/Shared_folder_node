@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <rosparam file='/home/asus/Desktop/Share/config.yaml' command="load" />
+</launch>

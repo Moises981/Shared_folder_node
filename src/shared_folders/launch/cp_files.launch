@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="shared_folders" type="cp_files.py" name="CP_FILES" output="screen"/>
+</launch>

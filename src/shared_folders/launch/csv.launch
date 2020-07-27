@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="shared_folders" type="node_csv.py" name="CSV" output="screen"/>
+</launch>
